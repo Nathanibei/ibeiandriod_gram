@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "639211856591",
+    "firebase_url": "https://ibeistagramf18.firebaseio.com",
+    "project_id": "ibeistagramf18",
+    "storage_bucket": "ibeistagramf18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639211856591:android:53c02080c8c9f8be5e4dba",
+        "android_client_info": {
+          "package_name": "com.example.ibeistagram_f18"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639211856591-alj6498r8dd4e0glvrvi3gvl4suhsqbm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ibeistagram_f18",
+            "certificate_hash": "b3fe3dbb29dbc93cadeacfa150a25a41800ef38c"
+          }
+        },
+        {
+          "client_id": "639211856591-va4ebl16g2o380g32f0ju0jds04fbrot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK314s2XYsFTycfAsyT5go_wBSTlGW6H0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639211856591-va4ebl16g2o380g32f0ju0jds04fbrot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
